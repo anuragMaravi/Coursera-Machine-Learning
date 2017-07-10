@@ -5,7 +5,16 @@ This repository contains all the materials for Coursera Machine Learning.
 
 ## Materials
 - Lecture Slides
-- Completed Assignments
+- Completed Programming Assignments
+
+# Index
+## Week 1
+
+## Week 2
+### Lecture Slides
+### Programming Assignment: Linear Regression
+Note: 
+You are supposed to change `username` and `token` in [token.mat](https://github.com/anuragMaravi/Coursera-Machine-Learning/blob/master/Week%202/Programming%20Assignment%20-%20Linear%20Regression%20/machine-learning-ex1/ex1/token.mat)
 
 ## Disclaimer
 These materials are for the use of the author only.
