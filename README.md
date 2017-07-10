@@ -1,5 +1,7 @@
 # Coursera-Machine-Learning
-This repository contains all the materials for Coursera Machine Learning 
+This repository contains all the materials for Coursera Machine Learning.
+
+[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning/) by Andrew Ng, Stanford University
 
 ## Materials
 - Lecture Slides
