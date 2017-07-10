@@ -1,6 +1,10 @@
 # Coursera-Machine-Learning
 This repository contains all the materials for Coursera Machine Learning 
 
+## Materials
+- Lecture Slides
+- Completed Assignments
+
 ## Disclaimer
 These materials are for the use of the author only.
 
